@@ -1,5 +1,8 @@
 # MyProject
 
+A minimal expense tracker built with **Angular** and **Tailwind CSS**.  
+Add, view, and delete your daily expenses
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.7.
 
 ## Development server
